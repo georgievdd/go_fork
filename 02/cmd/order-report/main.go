@@ -1,5 +1,11 @@
 package main
 
+import (
+	"os"
+
+	"example.com/order-pipeline/internal/app"
+)
+
 func main() {
-	panic("TODO: подключите данные и клиентов и запустите обработку")
+	os.Exit(app.Run(os.Stdin, os.Stdout, os.Stderr, os.Args[1:]))
 }
