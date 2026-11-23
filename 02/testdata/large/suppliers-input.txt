@@ -1,0 +1,10 @@
+testdata/large/notices/supplier-007-part-01.csv
+testdata/large/notices/supplier-007-part-02.csv
+testdata/large/notices/supplier-007-part-03.csv
+testdata/large/notices/supplier-007-part-04.csv
+testdata/large/notices/supplier-007-part-05.csv
+testdata/large/notices/supplier-008-part-01.csv
+testdata/large/notices/supplier-008-part-02.csv
+testdata/large/notices/supplier-008-part-03.csv
+testdata/large/notices/supplier-008-part-04.csv
+testdata/large/notices/supplier-008-part-05.csv
